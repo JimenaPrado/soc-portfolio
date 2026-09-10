@@ -1,0 +1,7 @@
+2026-09-09 08:41:12 host=web-server01 event=authentication_failed user=admin source_ip=185.220.101.45 method=ssh
+2026-09-09 08:41:18 host=web-server01 event=authentication_failed user=admin source_ip=185.220.101.45 method=ssh
+2026-09-09 08:41:24 host=web-server01 event=authentication_failed user=admin source_ip=185.220.101.45 method=ssh
+2026-09-09 08:41:31 host=web-server01 event=authentication_failed user=admin source_ip=185.220.101.45 method=ssh
+2026-09-09 08:41:38 host=web-server01 event=authentication_failed user=admin source_ip=185.220.101.45 method=ssh
+2026-09-09 08:42:05 host=web-server01 event=authentication_success user=admin source_ip=185.220.101.45 method=ssh
+2026-09-09 08:43:17 host=web-server01 event=authentication_success user=developer source_ip=10.10.20.15 method=ssh

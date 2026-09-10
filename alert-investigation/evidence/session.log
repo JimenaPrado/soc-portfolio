@@ -1,0 +1,7 @@
+2026-09-09 08:42:11 host=web-server01 event=process_started user=admin source_ip=185.220.101.45 process=bash
+2026-09-09 08:42:19 host=web-server01 event=command_executed user=admin command="whoami"
+2026-09-09 08:42:27 host=web-server01 event=command_executed user=admin command="cat /etc/passwd"
+2026-09-09 08:42:41 host=web-server01 event=command_executed user=admin command="sudo -l"
+2026-09-09 08:42:56 host=web-server01 event=network_connection user=admin destination=10.10.20.25 port=445
+2026-09-09 08:43:04 host=web-server01 event=network_connection user=admin destination=10.10.20.30 port=22
+2026-09-09 08:43:11 host=web-server01 event=command_executed user=admin command="history"
