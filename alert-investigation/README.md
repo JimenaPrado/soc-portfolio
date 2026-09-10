@@ -26,7 +26,7 @@ Additional activity was then observed during the authenticated session, includin
 
 The activity was investigated as a potential account compromise.
 
-## 🔍 Investigation Process
+## 🔍 Investigation process
 
 The investigation followed these steps:
 
@@ -49,7 +49,7 @@ The investigation followed these steps:
 
 Contains the simulated SSH authentication events, including failed and successful login attempts.
 
-### Session Evidence
+### Session evidence
 
 `evidence/session.log`
 
@@ -62,7 +62,7 @@ Contains activity observed after the successful authentication, including:
 * Internal network connections
 * Command history review
 
-### Alert Investigation
+### Alert investigation
 
 `alerts/alert-001.md`
 
@@ -77,7 +77,7 @@ Contains the complete investigation, including:
 * Incident classification
 * Final conclusion
 
-##  Key Findings
+##  Key findings
 
 The investigation identified:
 
@@ -88,7 +88,7 @@ The investigation identified:
 * Connections to additional internal hosts using SMB and SSH.
 * A pattern consistent with possible unauthorized access.
 
-##  Final Assessment
+##  Final assessment
 
 | Field         | Result                       |
 | ------------- | ---------------------------- |
